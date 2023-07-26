@@ -13,6 +13,7 @@
 *~
 _autosave-*
 *.tmp
+temp/
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
