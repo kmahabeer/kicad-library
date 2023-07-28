@@ -135,4 +135,9 @@
   (pad "15" smd rect (at 1.8923 -1.25095) (size 0.8128 0.254) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 06418f1f-d547-41ef-be3f-ea4a361b596f))
   (pad "16" smd rect (at 1.8923 -1.75133) (size 0.8128 0.254) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1295183a-f94e-4424-bf92-3a94e9569d8d))
   (pad "17" smd rect (at 0 0) (size 2.54 4.445) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c5039a24-e227-493d-b456-2ee7a00f897b))
+  (model "C:/Users/Kevin/Projects/kicad-library/3dmodels/Package_DFN_QFN.3dshapes/DFN-16_5X4_MCH-Interface_PoE_Microchip_PD70210A.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
