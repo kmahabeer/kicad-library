@@ -33,7 +33,7 @@
       (polyline
         (pts
           (xy -10.795 -6.35)
-          (xy 8.89 -6.35)
+          (xy 11.43 -6.35)
         )
         (stroke (width 0) (type default))
         (fill (type none))
