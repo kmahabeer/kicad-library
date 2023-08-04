@@ -182,7 +182,7 @@
   (pad "11" thru_hole circle (at 0 -0.5) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 9a376503-e8e8-47d0-bba1-299698b545b1))
   (pad "11" smd rect (at 0 0) (size 1.6 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a43ccccf-6448-4155-b2de-8983be62fb98))
   (pad "11" thru_hole circle (at 0 0.5) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp e21f1fe4-9043-4d24-a4a3-804ea4273530))
-  (model "C:/Users/Kevin/Projects/kicad-library/3dmodels/Package_DFN_QFN.3dshapes/MLF-10_ML-Driver_LED_Microchip_MIC3205YML-TR.step"
+  (model "${KIPRJMOD}/library/3dmodels/KM-Package_DFN_QFN.3dshapes/MLF-10_ML-Driver_LED_Microchip_MIC3205YML-TR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -66,4 +66,9 @@
   (pad "12" thru_hole circle (at -6.725 -10.920002) (size 1.524 1.524) (drill 1.02) (layers "*.Cu" "*.Mask") (tstamp 9799bc61-1dec-4cbb-994b-ff94fb017dff))
   (pad "13" thru_hole circle (at 6.725001 -8.89) (size 1.524 1.524) (drill 1.02) (layers "*.Cu" "*.Mask") (tstamp b4c1599f-5cca-47a5-a159-1093faed7a82))
   (pad "14" thru_hole circle (at 6.725 -10.920002) (size 1.524 1.524) (drill 1.02) (layers "*.Cu" "*.Mask") (tstamp a4200134-61ba-4716-809b-1d99c0d62411))
+  (model "${KIPRJMOD}/library/3dmodels/KM-Connector_RJ.3dshapes/Connector_RJ45_Abracon_ARJM11C7-114-BA-EW2.STEP"
+    (offset (xyz 0 6.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
+  )
 )

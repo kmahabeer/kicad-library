@@ -58,4 +58,9 @@
   (pad "" smd rect (at 1.5501 0) (size 1.8 3.9) (layers "F.Paste") (tstamp 4234c0d1-9f56-48f6-8e0f-088971cf5e26))
   (pad "1" smd rect (at -1.5501 0) (size 1.9 4) (layers "F.Cu" "F.Mask") (tstamp 7f23e116-dfe5-4817-a853-35e70ed6e6cd))
   (pad "2" smd rect (at 1.5501 0) (size 1.9 4) (layers "F.Cu" "F.Mask") (tstamp 7269a163-e2a5-4181-b257-06fab844aa99))
+  (model "${KIPRJMOD}/library/3dmodels/KM-Inductor_SMD.3dshapes/L_TDK_VLS4015CX-6R8M-H.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

@@ -108,4 +108,9 @@
   (pad "2" smd rect (at 2.675 -1.25) (size 2.15 1) (layers "F.Cu" "F.Mask") (tstamp 04baeb70-bc16-4b8b-a8be-f74f3ce16134))
   (pad "3" smd rect (at -2.675 1.25) (size 2.15 1) (layers "F.Cu" "F.Mask") (tstamp 65c36397-f582-484c-ab07-fe56aa148c31))
   (pad "4" smd rect (at 2.675 1.25) (size 2.15 1) (layers "F.Cu" "F.Mask") (tstamp e641ace3-9545-47a6-84af-104526f4ef7b))
+  (model "${KIPRJMOD}/library/3dmodels/KM-Diode_SMD.3dshapes/D_TO-269AA_4-BESOP_Diodes_MB10S-13.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

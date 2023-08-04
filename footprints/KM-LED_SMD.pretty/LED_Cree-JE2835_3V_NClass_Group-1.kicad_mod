@@ -99,4 +99,9 @@
       )
     )
   )
+  (model "${KIPRJMOD}/library/3dmodels/KM-LED_SMD.3dshapes/LED_Cree-JE2835_3V_NClass.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

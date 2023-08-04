@@ -130,7 +130,7 @@
   (pad "17" thru_hole circle (at 0.78 0) (size 0.66 0.66) (drill 0.33) (layers "*.Cu") (tstamp cb4ba532-72de-4612-893b-9375cdef6167))
   (pad "17" thru_hole circle (at 0.78 0.78) (size 0.66 0.66) (drill 0.33) (layers "*.Cu") (tstamp 279cb884-f3f0-4688-ad1d-13d8f5123047))
   (pad "17" thru_hole circle (at 0.78 1.56) (size 0.66 0.66) (drill 0.33) (layers "*.Cu") (tstamp 79f5f99a-572b-4d7b-b56d-9dc5ef411e4a))
-  (model "C:/Users/Kevin/Projects/kicad-library/3dmodels/Package_DFN_QFN.3dshapes/DFN-16_5X4_MCH-Interface_PoE_Microchip_PD70210A.step"
+  (model "${KIPRJMOD}/library/3dmodels/KM-Package_DFN_QFN.3dshapes/DFN-16_5X4_MCH-Interface_PoE_Microchip_PD70210A.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

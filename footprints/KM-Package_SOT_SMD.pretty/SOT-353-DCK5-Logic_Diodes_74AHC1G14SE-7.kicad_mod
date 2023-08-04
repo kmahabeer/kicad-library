@@ -94,4 +94,9 @@
   (pad "3" smd rect (at -1.0414 0.649999) (size 1.1684 0.3556) (layers "F.Cu" "F.Mask") (tstamp 1f046bd2-0ce9-4cb0-90bc-16bbc5bbcf57))
   (pad "4" smd rect (at 1.0414 0.649999) (size 1.1684 0.3556) (layers "F.Cu" "F.Mask") (tstamp ffada84c-6815-400b-8824-07abbe2dd9bb))
   (pad "5" smd rect (at 1.0414 -0.649999) (size 1.1684 0.3556) (layers "F.Cu" "F.Mask") (tstamp 7b9f87b9-8a97-47c2-97d8-54ca86802d17))
+  (model "${KIPRJMOD}/library/3dmodels/KM-Package_SOT_SMD.3dshapes/SOT-353-DCK0005A-Logic_Diodes_74AHC1G14SE-7.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

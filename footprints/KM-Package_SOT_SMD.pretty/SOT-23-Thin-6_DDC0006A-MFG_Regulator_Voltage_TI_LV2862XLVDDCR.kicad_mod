@@ -40,7 +40,7 @@
   (pad "4" smd roundrect (at 1.35 0.95) (size 1.1 0.6) (layers "F.Cu") (roundrect_rratio 0.08333333333) (tstamp 54ba5e5d-146d-4316-98f1-031f773739f0))
   (pad "5" smd roundrect (at 1.35 0) (size 1.1 0.6) (layers "F.Cu") (roundrect_rratio 0.08333333333) (tstamp 705e39d1-3589-4990-9622-d89ea3774ff7))
   (pad "6" smd roundrect (at 1.35 -0.95) (size 1.1 0.6) (layers "F.Cu") (roundrect_rratio 0.08333333333) (tstamp e63e4917-7c05-4b78-9d51-4745847b9ea4))
-  (model "C:/Users/Kevin/Projects/kicad-library/3dmodels/Package_SOT_SMD.3dshapes/SOT-23-Thin-6_SOT-23-Thin-6_DDC0006A_Regulator_Voltage_TI_LV2862XLVDDCR.stp"
+  (model "${KIPRJMOD}/library/3dmodels/KM-Package_SOT_SMD.3dshapes/SOT-23-Thin-6_SOT-23-Thin-6_DDC0006A_Regulator_Voltage_TI_LV2862XLVDDCR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
